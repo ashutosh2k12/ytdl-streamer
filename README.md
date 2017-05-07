@@ -1,10 +1,9 @@
 # ytdl-streamer
 
-##Introduction
-
+## Introduction
 A simple bash script that can stream your youtube video right to your player right from terminal
 
-##Useage
+## Usage
 
 Clone or download this repo. `cd` to your repo directory. 
 Just execute `sudo chmod +x ./playmusic.sh` and run. It will ask you to input your search term, and will stream it directly to [mplayer](https://help.ubuntu.com/community/MPlayer)
